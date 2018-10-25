@@ -15,6 +15,9 @@
 .blue {
   height: 400px;
   background-color: #2980b9;
+  justify-content: center;
+  padding-left: 10vh;
+  padding-right: 10vh;
 }
 
 i {
