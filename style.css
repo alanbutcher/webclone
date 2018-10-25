@@ -1,0 +1,44 @@
+.view {
+  background-image: url("https://wallpapercave.com/wp/wp1815869.jpg"); 
+  background-repeat: no-repeat; 
+  background-size: cover; 
+  background-position: center center;
+  height: 100vh; 
+}
+
+.oh-snap {
+  padding: 300px;
+  font-size: 150%;
+  color: white;
+}
+
+.blue {
+  height: 400px;
+  background-color: #2980b9;
+}
+
+i {
+  color:  white;
+  font-size: 400%;
+  margin-bottom: 25px;
+}
+
+.broom {
+  color: white;
+  padding-top: 100px;
+}
+
+.trash-can {
+  color: white;
+  padding-top: 100px;
+}
+
+.recycle {
+  color: white;
+  padding-top: 100px;
+}
+
+.dna {
+  color: white;
+  padding-top: 100px;
+}
